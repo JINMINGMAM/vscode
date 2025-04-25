@@ -1,0 +1,14 @@
+D:\vs code mnkim\bin\Debug\net9.0\vs code mnkim.exe
+D:\vs code mnkim\bin\Debug\net9.0\vs code mnkim.deps.json
+D:\vs code mnkim\bin\Debug\net9.0\vs code mnkim.runtimeconfig.json
+D:\vs code mnkim\bin\Debug\net9.0\vs code mnkim.dll
+D:\vs code mnkim\bin\Debug\net9.0\vs code mnkim.pdb
+D:\vs code mnkim\obj\Debug\net9.0\vs code mnkim.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs code mnkim\obj\Debug\net9.0\vs code mnkim.AssemblyInfoInputs.cache
+D:\vs code mnkim\obj\Debug\net9.0\vs code mnkim.AssemblyInfo.cs
+D:\vs code mnkim\obj\Debug\net9.0\vs code mnkim.csproj.CoreCompileInputs.cache
+D:\vs code mnkim\obj\Debug\net9.0\vs code mnkim.dll
+D:\vs code mnkim\obj\Debug\net9.0\refint\vs code mnkim.dll
+D:\vs code mnkim\obj\Debug\net9.0\vs code mnkim.pdb
+D:\vs code mnkim\obj\Debug\net9.0\vs code mnkim.genruntimeconfig.cache
+D:\vs code mnkim\obj\Debug\net9.0\ref\vs code mnkim.dll
