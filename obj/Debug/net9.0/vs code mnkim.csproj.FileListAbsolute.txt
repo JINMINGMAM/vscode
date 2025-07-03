@@ -12,3 +12,4 @@ D:\vs code mnkim\obj\Debug\net9.0\refint\vs code mnkim.dll
 D:\vs code mnkim\obj\Debug\net9.0\vs code mnkim.pdb
 D:\vs code mnkim\obj\Debug\net9.0\vs code mnkim.genruntimeconfig.cache
 D:\vs code mnkim\obj\Debug\net9.0\ref\vs code mnkim.dll
+D:\vs code mnkim\obj\Debug\net9.0\vs code mnkim.sourcelink.json
